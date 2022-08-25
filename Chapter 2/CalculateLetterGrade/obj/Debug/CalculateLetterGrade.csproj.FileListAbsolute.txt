@@ -1,0 +1,11 @@
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculteGrade.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 2\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
