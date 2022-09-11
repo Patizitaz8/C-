@@ -1,0 +1,11 @@
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb
