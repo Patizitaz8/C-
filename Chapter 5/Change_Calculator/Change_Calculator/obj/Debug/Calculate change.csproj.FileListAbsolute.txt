@@ -1,0 +1,11 @@
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\bin\Debug\Calculate change.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\bin\Debug\Calculate change.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\bin\Debug\Calculate change.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\obj\Debug\Calculate change.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\obj\Debug\Calculate change.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\obj\Debug\Calculate_change.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\obj\Debug\Calculate change.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\obj\Debug\Calculate change.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\obj\Debug\Calculate change.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\obj\Debug\Calculate change.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate change\Calculate change\obj\Debug\Change_Calculator.Form1.resources
