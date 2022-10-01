@@ -1,0 +1,33 @@
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\bin\Debug\Calculate income tax.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\bin\Debug\Calculate income tax.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\bin\Debug\Calculate income tax.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\obj\Debug\Calculate income tax.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\obj\Debug\Calculate income tax.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\obj\Debug\Calculate_income_tax.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\obj\Debug\Calculate_income_tax.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\obj\Debug\Calculate income tax.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\obj\Debug\Calculate income tax.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\obj\Debug\Calculate income tax.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 5\Calculate income tax\obj\Debug\Calculate income tax.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\bin\Debug\Calculate income tax.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\bin\Debug\Calculate income tax.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\bin\Debug\Calculate income tax.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\obj\Debug\Calculate income tax.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\obj\Debug\Calculate income tax.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\obj\Debug\Calculate_income_tax.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\obj\Debug\Calculate_income_tax.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\obj\Debug\Calculate income tax.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\obj\Debug\Calculate income tax.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\obj\Debug\Calculate income tax.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Calculate income tax\obj\Debug\Calculate income tax.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\bin\Debug\Calculate income tax.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\bin\Debug\Calculate income tax.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\bin\Debug\Calculate income tax.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\obj\Debug\Calculate income tax.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\obj\Debug\Calculate income tax.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\obj\Debug\Calculate_income_tax.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\obj\Debug\Calculate_income_tax.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\obj\Debug\Calculate income tax.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\obj\Debug\Calculate income tax.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\obj\Debug\Calculate income tax.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Tax_Calculator\obj\Debug\Calculate income tax.pdb
