@@ -1,0 +1,11 @@
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\bin\Debug\Store Calculator.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\bin\Debug\Store Calculator.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\bin\Debug\Store Calculator.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\obj\Debug\Store Calculator.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\obj\Debug\Store Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\obj\Debug\Store_Calculator.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\obj\Debug\Store_Calculator.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\obj\Debug\Store Calculator.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\obj\Debug\Store Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\obj\Debug\Store Calculator.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 4\Store Calculator\obj\Debug\Store Calculator.pdb
