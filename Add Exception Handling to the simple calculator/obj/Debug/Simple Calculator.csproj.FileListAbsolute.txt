@@ -1,0 +1,33 @@
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\obj\Debug\Simple Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 6\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\obj\Debug\Simple Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Simple Calculator\obj\Debug\Simple Calculator.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\bin\Debug\Simple Calculator.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\obj\Debug\Simple Calculator.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\obj\Debug\Simple Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\obj\Debug\Simple Calculator.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Chapter 7\Add Exception Handling to the simple calculator\obj\Debug\Simple Calculator.pdb
