@@ -1,0 +1,12 @@
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final Project.csproj.AssemblyReference.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\rosap\OneDrive\Escritorio\C#\Final Project\Final Project\obj\Debug\Final_Project.Form2.resources
