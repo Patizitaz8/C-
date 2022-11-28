@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Final
 {
@@ -16,7 +17,9 @@ namespace Final
         {
             InitializeComponent();
         }
-
+        public static string Orderid = "";
+        public static string Customerid= "";
+        public static string Shipname = "";
         private void Form1_Load(object sender, EventArgs e)
         {
             // TODO: This line of code loads data into the 'northwndDataSet1.Orders' table. You can move, or remove it, as needed.
@@ -82,6 +85,10 @@ namespace Final
 
         private void btnContinue_Click(object sender, EventArgs e)
         {
+            Orderid = txtOrderid.Text;
+            Customerid = txtCustomerid.Text;
+            Shipname = txtShipname.Text;
+
             Form2 frm2 = new Form2();
             frm2.Show();
 

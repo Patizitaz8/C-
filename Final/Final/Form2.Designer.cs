@@ -36,8 +36,8 @@
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.gbxTypeCountry = new System.Windows.Forms.GroupBox();
-            this.cbxNat = new System.Windows.Forms.CheckBox();
             this.cbxinter = new System.Windows.Forms.CheckBox();
+            this.cbxNat = new System.Windows.Forms.CheckBox();
             this.label4 = new System.Windows.Forms.Label();
             this.cboEmpid = new System.Windows.Forms.ComboBox();
             this.btnReturn = new System.Windows.Forms.Button();
@@ -111,16 +111,6 @@
             this.gbxTypeCountry.TabIndex = 7;
             this.gbxTypeCountry.TabStop = false;
             // 
-            // cbxNat
-            // 
-            this.cbxNat.AutoSize = true;
-            this.cbxNat.Location = new System.Drawing.Point(21, 15);
-            this.cbxNat.Name = "cbxNat";
-            this.cbxNat.Size = new System.Drawing.Size(93, 24);
-            this.cbxNat.TabIndex = 0;
-            this.cbxNat.Text = "National";
-            this.cbxNat.UseVisualStyleBackColor = true;
-            // 
             // cbxinter
             // 
             this.cbxinter.AutoSize = true;
@@ -130,6 +120,16 @@
             this.cbxinter.TabIndex = 1;
             this.cbxinter.Text = "International";
             this.cbxinter.UseVisualStyleBackColor = true;
+            // 
+            // cbxNat
+            // 
+            this.cbxNat.AutoSize = true;
+            this.cbxNat.Location = new System.Drawing.Point(21, 15);
+            this.cbxNat.Name = "cbxNat";
+            this.cbxNat.Size = new System.Drawing.Size(93, 24);
+            this.cbxNat.TabIndex = 0;
+            this.cbxNat.Text = "National";
+            this.cbxNat.UseVisualStyleBackColor = true;
             // 
             // label4
             // 
@@ -148,6 +148,7 @@
             this.cboEmpid.Name = "cboEmpid";
             this.cboEmpid.Size = new System.Drawing.Size(83, 28);
             this.cboEmpid.TabIndex = 9;
+            this.cboEmpid.SelectedIndexChanged += new System.EventHandler(this.cboEmpid_SelectedIndexChanged);
             // 
             // btnReturn
             // 
